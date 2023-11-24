@@ -31,7 +31,7 @@ export default function Footer() {
       </ul>
     </footer> */
 
-    <footer className="page-footer font-small blue pt-4">
+    <footer className="page-footer font-small blue pt-4" id="footer-contain">
       <div className="container-fluid text-center text-md-left">
         <div className="row">
           <div className="col-md-6 mt-md-0 mt-3">

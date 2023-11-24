@@ -95,3 +95,26 @@ p {
   transform: translate(-50%, -50%);
   margin: 0;
 }
+
+.about-section {
+  width: 100vw;
+  height: 600px;
+}
+.about-text {
+  margin: 3rem 3rem;
+}
+#footer-contain,
+#footer-contain div,
+#footer-contain p,
+#footer-contain a,
+#footer-contain h5 {
+  background-color: #2b3035;
+  color: #ffffff;
+}
+.contactus-area {
+  width: 100vw;
+  height: 350px;
+}
+.contactus-area h3 {
+  margin-top: 3rem;
+}
